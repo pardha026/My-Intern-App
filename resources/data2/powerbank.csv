@@ -1,0 +1,601 @@
+,PageNo,Title,Price,Rating,Discounts,No_of_R and R,Brand,capacity_mAh,color,battery_type
+0,1,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+1,1,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+2,1,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+3,1,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+4,1,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+5,1,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+6,1,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+7,1,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+8,1,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+9,1,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+10,2,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+11,2,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+12,2,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+13,2,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+14,2,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Black, Lithium Polymer
+15,2,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Yellow, Lithium Polymer
+16,2,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+17,2,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+18,2,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+19,2,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,2599,572,REDMI,20000,Black, Lithium Polymer
+20,3,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+21,3,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+22,3,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+23,3,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+24,3,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+25,3,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+26,3,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+27,3,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+28,3,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+29,3,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+30,4,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+31,4,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+32,4,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+33,4,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+34,4,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+35,4,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+36,4,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+37,4,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+38,4,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+39,4,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+40,5,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+41,5,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+42,5,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+43,5,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+44,5,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+45,5,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+46,5,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+47,5,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+48,5,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+49,5,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+50,6,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+51,6,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+52,6,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+53,6,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+54,6,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+55,6,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+56,6,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+57,6,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+58,6,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+59,6,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+60,7,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+61,7,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+62,7,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+63,7,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+64,7,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+65,7,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+66,7,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+67,7,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+68,7,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+69,7,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+70,8,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+71,8,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+72,8,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+73,8,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+74,8,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+75,8,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+76,8,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+77,8,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+78,8,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+79,8,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+80,9,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+81,9,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+82,9,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+83,9,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+84,9,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+85,9,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+86,9,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+87,9,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+88,9,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+89,9,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+90,10,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+91,10,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+92,10,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+93,10,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+94,10,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+95,10,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+96,10,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+97,10,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+98,10,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+99,10,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+100,11,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+101,11,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+102,11,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+103,11,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+104,11,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+105,11,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+106,11,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+107,11,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+108,11,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+109,11,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+110,12,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+111,12,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+112,12,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+113,12,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+114,12,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+115,12,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+116,12,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+117,12,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+118,12,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+119,12,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+120,13,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+121,13,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+122,13,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+123,13,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+124,13,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+125,13,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+126,13,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+127,13,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+128,13,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+129,13,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+130,14,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+131,14,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+132,14,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+133,14,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+134,14,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+135,14,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+136,14,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+137,14,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+138,14,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+139,14,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+140,15,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+141,15,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+142,15,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+143,15,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+144,15,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+145,15,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+146,15,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+147,15,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+148,15,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+149,15,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+150,16,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+151,16,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+152,16,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+153,16,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+154,16,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+155,16,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+156,16,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+157,16,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+158,16,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+159,16,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+160,17,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+161,17,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+162,17,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+163,17,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+164,17,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+165,17,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+166,17,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+167,17,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+168,17,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+169,17,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+170,18,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+171,18,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+172,18,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+173,18,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+174,18,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+175,18,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+176,18,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+177,18,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+178,18,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+179,18,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+180,19,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+181,19,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+182,19,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+183,19,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+184,19,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+185,19,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+186,19,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+187,19,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+188,19,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+189,19,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+190,20,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+191,20,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+192,20,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+193,20,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+194,20,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+195,20,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+196,20,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+197,20,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+198,20,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+199,20,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+200,21,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+201,21,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+202,21,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+203,21,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+204,21,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+205,21,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+206,21,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+207,21,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+208,21,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+209,21,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+210,22,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+211,22,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+212,22,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+213,22,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+214,22,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+215,22,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+216,22,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+217,22,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+218,22,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+219,22,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+220,23,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+221,23,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+222,23,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+223,23,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+224,23,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+225,23,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+226,23,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+227,23,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+228,23,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+229,23,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+230,24,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+231,24,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+232,24,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+233,24,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+234,24,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+235,24,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+236,24,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+237,24,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+238,24,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+239,24,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+240,25,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+241,25,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+242,25,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+243,25,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+244,25,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+245,25,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+246,25,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+247,25,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+248,25,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+249,25,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+250,26,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+251,26,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+252,26,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+253,26,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+254,26,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+255,26,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+256,26,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+257,26,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+258,26,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+259,26,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+260,27,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+261,27,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+262,27,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+263,27,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+264,27,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+265,27,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+266,27,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+267,27,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+268,27,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+269,27,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+270,28,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+271,28,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+272,28,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+273,28,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+274,28,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+275,28,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+276,28,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+277,28,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+278,28,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+279,28,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+280,29,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+281,29,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+282,29,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+283,29,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+284,29,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+285,29,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+286,29,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+287,29,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+288,29,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+289,29,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+290,30,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+291,30,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+292,30,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+293,30,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+294,30,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+295,30,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+296,30,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+297,30,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+298,30,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+299,30,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+300,31,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+301,31,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+302,31,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+303,31,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+304,31,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+305,31,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+306,31,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+307,31,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+308,31,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+309,31,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+310,32,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+311,32,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+312,32,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+313,32,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+314,32,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+315,32,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+316,32,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+317,32,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+318,32,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+319,32,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+320,33,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+321,33,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+322,33,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+323,33,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+324,33,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+325,33,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+326,33,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+327,33,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+328,33,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+329,33,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+330,34,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+331,34,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+332,34,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+333,34,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+334,34,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+335,34,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+336,34,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+337,34,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+338,34,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+339,34,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+340,35,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+341,35,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+342,35,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+343,35,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+344,35,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+345,35,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+346,35,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+347,35,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+348,35,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+349,35,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+350,36,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+351,36,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+352,36,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+353,36,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+354,36,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+355,36,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+356,36,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+357,36,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+358,36,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+359,36,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+360,37,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+361,37,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+362,37,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+363,37,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+364,37,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+365,37,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+366,37,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+367,37,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+368,37,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+369,37,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+370,38,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+371,38,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+372,38,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+373,38,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+374,38,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+375,38,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+376,38,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+377,38,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+378,38,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+379,38,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+380,39,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+381,39,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+382,39,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+383,39,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+384,39,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+385,39,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+386,39,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+387,39,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+388,39,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+389,39,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+390,40,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+391,40,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+392,40,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+393,40,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+394,40,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+395,40,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+396,40,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+397,40,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+398,40,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+399,40,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+400,41,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+401,41,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+402,41,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+403,41,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+404,41,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+405,41,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+406,41,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+407,41,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+408,41,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+409,41,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+410,42,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+411,42,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+412,42,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+413,42,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+414,42,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+415,42,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+416,42,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+417,42,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+418,42,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+419,42,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+420,43,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+421,43,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+422,43,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+423,43,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+424,43,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+425,43,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+426,43,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+427,43,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+428,43,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+429,43,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+430,44,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+431,44,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+432,44,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+433,44,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+434,44,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+435,44,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+436,44,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+437,44,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+438,44,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+439,44,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+440,45,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+441,45,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+442,45,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+443,45,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+444,45,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+445,45,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+446,45,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+447,45,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+448,45,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+449,45,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+450,46,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+451,46,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+452,46,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+453,46,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+454,46,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+455,46,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+456,46,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+457,46,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+458,46,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+459,46,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+460,47,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+461,47,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+462,47,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+463,47,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+464,47,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+465,47,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+466,47,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+467,47,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+468,47,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+469,47,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+470,48,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+471,48,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+472,48,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+473,48,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+474,48,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+475,48,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+476,48,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+477,48,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+478,48,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+479,48,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+480,49,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+481,49,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+482,49,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+483,49,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+484,49,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+485,49,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+486,49,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+487,49,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+488,49,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+489,49,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+490,50,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+491,50,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+492,50,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+493,50,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+494,50,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+495,50,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+496,50,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+497,50,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+498,50,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+499,50,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+500,51,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+501,51,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+502,51,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+503,51,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+504,51,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+505,51,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+506,51,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+507,51,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+508,51,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+509,51,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+510,52,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+511,52,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+512,52,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+513,52,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+514,52,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+515,52,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+516,52,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+517,52,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+518,52,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+519,52,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+520,53,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+521,53,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+522,53,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+523,53,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+524,53,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+525,53,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+526,53,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+527,53,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+528,53,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+529,53,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+530,54,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+531,54,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+532,54,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+533,54,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+534,54,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+535,54,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+536,54,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+537,54,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+538,54,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+539,54,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+540,55,Unix 10000 mAh Power Bank (Fast Charging),1099,3.9,1499,572,Unix,10000,White, Lithium Polymer
+541,55,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+542,55,"conekt 10000 mAh Power Bank (12 W, Fast Charging)",549,4.0,2499,572,conekt,10000,Black, Lithium Polymer
+543,55,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+544,55,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+545,55,"REDMI 10000 mAh Power Bank (10 W, Fast Charging)",999,4.2,1999,572,REDMI,10000,Black, Lithium Polymer
+546,55,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+547,55,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+548,55,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+549,55,"REDMI 20000 mAh Power Bank (18 W, Fast Charging)",1799,4.3,1999,572,REDMI,20000,White, Lithium Polymer
+550,56,"Mi 3i 10000 mAh Power Bank (Fast Charging, 18W)",1099,4.3,1299,572,Mi,10000,Blue, Lithium Polymer
+551,56,"Ambrane 10000 mAh Power Bank (12 W, Fast Charging)",699,4.2,1499,572,Ambrane,10000,Black, Lithium Polymer
+552,56,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+553,56,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Black, Lithium Polymer
+554,56,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+555,56,"realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",2099,4.3,2499,572,realme,20000,Yellow, Lithium Polymer
+556,56,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+557,56,"Croma 10000 mAh Power Bank (18 W, Fast Charging)",999,4.1,2000,572,Croma,10000,Black, Lithium Polymer
+558,56,"Ambrane 20000 mAh Power Bank (20 W, Power Delivery 3.0,...",1599,4.2,2499,572,Ambrane,20000,Blue, Lithium Polymer
+559,56,"Ambrane 10000 mAh Power Bank (20 W, Quick Charge 3.0, P...",899,4.2,1599,572,Ambrane,10000,Black, Lithium Polymer
+560,57,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+561,57,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+562,57,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+563,57,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+564,57,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+565,57,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+566,57,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+567,57,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+568,57,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+569,57,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+570,58,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+571,58,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+572,58,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+573,58,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+574,58,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+575,58,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+576,58,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+577,58,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+578,58,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+579,58,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+580,59,Bluebells India 10000 mAh Power Bank,1395,4.0,2499,572,Bluebells,10000,Grey, Lithium Polymer
+581,59,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+582,59,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+583,59,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+584,59,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+585,59,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+586,59,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+587,59,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+588,59,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+589,59,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
+590,60,"PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",999,4.0,1999,572,PunnkFunnk,10000,Black, Lithium-ion
+591,60,"Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",1899,4.3,2199,572,Mi,20000,Black, Lithium Polymer
+592,60,"realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",1199,4.2,1299,572,realme,10000,Black, Lithium Polymer
+593,60,"Ambrane 20000 mAh Power Bank (10 W, Fast Charging)",1299,4.2,3799,572,Ambrane,20000,Black, Lithium Polymer
+594,60,Croma 10000 mAh Power Bank,599,4.1,1000,572,Croma,10000,Blue, Lithium Polymer
+595,60,"Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",1499,4.3,1699,572,Mi,10000,Black, Lithium Polymer
+596,60,"ZEBRONICS 10000 mAh Power Bank (20 W, Fast Charging)",799,3.9,1799,572,ZEBRONICS,10000,Black, Lithium Polymer
+597,60,"Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",1499,4.1,1999,572,Ambrane,20000,Blue, Lithium Polymer
+598,60,"Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",1999,4.3,3499,572,Ambrane,27000,Black, Lithium Polymer
+599,60,Syska 10000 mAh Power Bank,799,4.1,1599,572,Syska,10000,Black, Lithium Polymer
